@@ -24,4 +24,4 @@ jobs:
       uses: actions-x/commit@v6
       with:
         message: "Auto generating README.md"
-        files: README.md
+        files: README.md .zk/notebook.db
