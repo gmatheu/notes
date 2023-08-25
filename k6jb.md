@@ -1,5 +1,4 @@
 # Neovim ideas
 
-
 #neovim
 #dev
