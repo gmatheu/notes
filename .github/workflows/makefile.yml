@@ -1,0 +1,27 @@
+name: Makefile CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Install ZK
+      run: wget https://github.com/mickael-menu/zk/releases/download/v0.14.0/zk-v0.14.0-linux-amd64.tar.gz && tar -xf zk-v0.14.0-linux-amd64.tar.gz zk
+
+    - name: Update README.md
+      run: PATH=$PATH:$(pwd) make -B README.md
+
+    - name: Git Commit/Push Changes
+      uses: actions-x/commit@v6
+      with:
+        message: "Auto generating README.md"
+        files: README.md .zk/notebook.db
