@@ -15,7 +15,7 @@ Neovim ideas [k6jb.md](k6jb.md) (3 weeks ago)
   ‣ #neovim
     #dev
 
-Notes README[.md](.md) (52 minutes ago)
+Notes README[.md](.md) (53 minutes ago)
 
   ‣ [zk](https://github.com/sirupsen/zk) based all-purpose notes repository.
     Integrated with [zk-nvim](https://github.com/mickael-menu/zk-nvim).
