@@ -15,11 +15,6 @@ Neovim ideas k6jb.md (3 weeks ago)
   ‣ #neovim
     #dev
 
-Notes README.md (15 minutes ago)
-
-  ‣ [zk](https://github.com/sirupsen/zk) based all-purpose notes repository.
-    Integrated with [zk-nvim](https://github.com/mickael-menu/zk-nvim).
-
 Rust resources 8tn3.md (3 hours ago)
 
   ‣ #dev
