@@ -1,8 +1,10 @@
 
 README.preface:
 	cat $@
-README.index:
+
+index:
 	zk index
+README.index: index
 	zk list > $@
 README.md: README.preface README.index
 	cat $? |\
