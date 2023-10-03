@@ -19,3 +19,10 @@
 
 #dev
 #til
+
+
+## Python / and * term parameters
+
+#python
+
+https://docs.python.org/3/glossary.html#term-parameter
