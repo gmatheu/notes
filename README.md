@@ -1,14 +1,6 @@
-# Notes
+ [README.md](README.md) (2 months ago)
 
-[zk](https://github.com/sirupsen/zk) based all-purpose notes repository.
-Integrated with [zk-nvim](https://github.com/mickael-menu/zk-nvim).
-
-
-## Index
-
- README[.md](.md) (2 months ago)
-
-  ‣ README[[.md](.md)](.md) (2 months ago)
+  ‣ How to manage things [[u7o5.md](u7o5.md)](u7o5.md) (2 months ago)
 
 How to manage things [u7o5.md](u7o5.md) (2 months ago)
 

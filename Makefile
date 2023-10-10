@@ -7,5 +7,5 @@ README.index: index
 	zk list > $@
 README.md: README.preface README.index
 	cat $? |\
-		sed -e 's/\([a-z0-9]*\.md\)/[\1](\1)/' |\
+		sed -e 's/\([A-Za-z0-9]*\.md\)/[\1](\1)/' |\
 		tee $@
