@@ -2,6 +2,7 @@
 
 #dev
 #zsh
+#tmux
 
 # Tmux
 #tmux
