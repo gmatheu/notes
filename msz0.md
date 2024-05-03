@@ -23,3 +23,5 @@
 #tmux
 
 * `tmux display-popup -x 0 -y 1000 zsh --no-rcs -c "ping duckduckgo.com"`
+
+* https://waylonwalker.com/tmux-floating-popups/
