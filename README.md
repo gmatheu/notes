@@ -10,7 +10,7 @@ How to manage things [u7o5.md](u7o5.md) (2 years ago)
 
   ‣ #dev
 
-How to screenshare using i3 [c7d8.md](c7d8.md) (just now)
+How to screenshare using i3 [c7d8.md](c7d8.md) (3 weeks ago)
 
   ‣ # What
 
@@ -18,6 +18,13 @@ Neovim ideas [k6jb.md](k6jb.md) (2 years ago)
 
   ‣ #neovim
     #dev
+
+Nix [ol7x.md](ol7x.md) (just now)
+
+  ‣ #nix
+    #nix-os
+    #homemanager
+    #nixos
 
 Notes [README.md](README.md) (2 years ago)
 
